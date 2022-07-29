@@ -29,7 +29,6 @@ const ProductPage = ({ pageContext: { data } }) => {
     images = [...images, { original: item.sourceUrl, thumbnail: item.sourceUrl }]
   })
 
-  console.log("imgsssss", images)
   const result = useStaticQuery(graphql`
   {categories: allWpProductCategory {
     edges {

@@ -32,7 +32,7 @@ const Catalog = () => {
   `)
   const products = result.products.nodes;
   const categories = result.categories.edges;
-  // console.log("categories", result.categories.edges)
+
   return (
     <Layout>
       <main>

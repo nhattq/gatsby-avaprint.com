@@ -5,7 +5,6 @@ import Moment from 'react-moment'
 
 const BlogTemplate = ({ pageContext: { data } }) => {
 
-    // console.log("data===>>>", data)
     return (
         <Layout>
              <section className="bg-gradient-light">

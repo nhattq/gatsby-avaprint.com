@@ -19,7 +19,7 @@ const Catalog = ({ pageContext: { data } }) => {
     }
     `)
     const categories = result.categories.edges;
-    // console.log("data", data)
+    
     return (
         <Layout>
             <main>
