@@ -326,7 +326,7 @@ const IndexPage = () => {
                               flawless prints, impeccable service, and
                               industry-leading tech to ensure your customers get
                               the best quality products, delivered fast. */}
-                              Avaprint được thiết kế để giảm thiểu những phiền toái không cần thiết, 
+                              Dreamship được thiết kế để giảm thiểu những phiền toái không cần thiết, 
                               sử dụng các nhà cung cấp có năng lực đã qua kiểm chứng, 
                               và kiểm tra chất lượng kỹ càng nên bạn chỉ việc tập trung vào việc kinh doanh của mình.
                             </p>
@@ -346,8 +346,8 @@ const IndexPage = () => {
             <div className="justify-content-center row">
               <div className="col-lg-8 col-md-10">
                 <h2 className="display-4 text-center mb-9 mb-md-10">
-                  {/* Explore why Avaprint is the right match for you. */}
-                  Khám phá xem tại sao Avaprint phù hợp với bạn.
+                  {/* Explore why Dreamship is the right match for you. */}
+                  Khám phá xem tại sao Dreamship phù hợp với bạn.
                 </h2>
               </div>
             </div>
@@ -389,9 +389,9 @@ const IndexPage = () => {
                     </p>
                     <p className="font-size-sm mb-0 text-muted">
                       {/* Cut inventory and operations costs from your budget
-                      forever. Avaprint enables you to move quickly, without
+                      forever. Dreamship enables you to move quickly, without
                       risk to your time and resources. */}
-                      Cắt giảm chi phí hàng tồn kho và vận hành mãi mãi. Avaprint giúp bạn có 
+                      Cắt giảm chi phí hàng tồn kho và vận hành mãi mãi. Dreamship giúp bạn có 
                       thể phát triển nhanh chóng mà không tốn nhiều thời gian và nhân lực.
                     </p>
                   </div>
