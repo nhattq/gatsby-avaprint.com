@@ -1,6 +1,6 @@
 /* .border-primary::before, .navbar::before {
-  -o-border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#4468b 0,#4468b 80%,#fcc 0) 1;
-  border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#4468b 0,#4468b 80%,#fcc 0) 1;
+  -o-border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#761feb 0,#761feb 80%,#fcc 0) 1;
+  border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#761feb 0,#761feb 80%,#fcc 0) 1;
   border-top: 4px solid;
   content: "";
   left: 0;
@@ -9,8 +9,8 @@
   width: 100%;
 } */
 .navbar::before {
-  -o-border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#4468b 0,#4468b 80%,#fcc 0) 1;
-  border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#4468b 0,#4468b 80%,#fcc 0) 1;
+  -o-border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#761feb 0,#761feb 80%,#fcc 0) 1;
+  border-image: linear-gradient(90deg,#575a7b,#575a7b 20%,#f9655b 0,#f9655b 40%,#f5c070 0,#f5c070 60%,#761feb 0,#761feb 80%,#fcc 0) 1;
   border-top: 4px solid;
   content: "";
   left: 0;
@@ -21,11 +21,11 @@
 @import "~react-image-gallery/styles/css/image-gallery.css";
 .border-primary,
 .navbar::before {
-  border-color: currentcolor #4468b #4468b;
+  border-color: currentcolor #761feb #761feb;
   -o-border-image: none !important;
   border-image: none !important;
   border-width: 0;
-  border-top: 4px solid #4468b;
+  border-top: 4px solid #761feb;
 }
 .navbar-light .navbar-brand,
 .navbar-light .navbar-brand:focus,
@@ -104,7 +104,7 @@
   flex-wrap: wrap;
 }
 .SizeBadgeLarge.active {
-  border: 3px solid #4468b;
+  border: 3px solid #761feb;
 }
 .SizeBadgeLarge {
   align-items: center;
@@ -124,7 +124,7 @@
   flex-wrap: wrap;
 }
 .ColorBadgeLarge.active {
-  border: 3px solid #4468b;
+  border: 3px solid #761feb;
 }
 
 .ColorBadgeLarge {
