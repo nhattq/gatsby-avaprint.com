@@ -44,7 +44,7 @@ const Contact = () => {
                       className="text-reset text-decoration-none"
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="mailto:support@avaprint.net"
+                      href="mailto:support@dreamship.com"
                     >
                       <div className="icon text-primary-light mb-3">
                         <svg width={24} height={24} viewBox="0 0 24 24">
@@ -75,7 +75,7 @@ const Contact = () => {
                       className="text-reset text-decoration-none"
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://facebook.com/avaprint"
+                      href="https://facebook.com/dreamshipinc"
                     >
                       <div className="icon text-primary-light mb-3">
                         <svg width={24} height={24} viewBox="0 0 24 24">
