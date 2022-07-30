@@ -175,7 +175,7 @@ sup {
   top: -0.5em;
 }
 a {
-  color: #4468b;
+  color: #761feb;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3077,8 +3077,8 @@ fieldset:disabled .btn {
   box-shadow: none;
 }
 .btn-primary {
-  background-color: #4468b;
-  border-color: #4468b;
+  background-color: #761feb;
+  border-color: #761feb;
   box-shadow: 0 0 6px rgb(27 22 66 / 3%), 0 14px 24px rgb(27 22 66 / 6%);
   color: #fff;
 }
@@ -6590,7 +6590,7 @@ button.close {
   border-left: 0 !important;
 }
 .border-primary {
-  border-color: #4468b !important;
+  border-color: #761feb !important;
 }
 .border-secondary {
   border-color: #506690 !important;
@@ -8126,7 +8126,7 @@ button.close {
   text-align: center !important;
 }
 .text-primary {
-  color: #4468b !important;
+  color: #761feb !important;
 }
 .text-secondary {
   color: #506690 !important;
@@ -19712,8 +19712,8 @@ a.card:hover {
   }
 }
 .flickity-button {
-  background-color: #4468b;
-  border-color: #4468b;
+  background-color: #761feb;
+  border-color: #761feb;
   border-radius: 0;
   box-shadow: 0 0 6px rgb(27 22 66 / 3%), 0 14px 24px rgb(27 22 66 / 6%);
   color: #fff;
