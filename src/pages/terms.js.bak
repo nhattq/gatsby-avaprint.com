@@ -20,14 +20,14 @@ const Terms = () => {
                 </p>
                 <hr className="hr-sm border-warning my-10 my-md-12" />
                 <p className="mb-6">
-                  Through https://Avaprint.com or any other associated
+                  Through https://dreamship.com or any other associated
                   websites, APIs, or mobile applications (collectively, the "
                   <strong>
-                    <i>Avaprint Site</i>
+                    <i>Dreamship Site</i>
                   </strong>
-                  "), [Avaprint, Inc.] ("
+                  "), [Dreamship, Inc.] ("
                   <strong>
-                    <i>Avaprint</i>
+                    <i>Dreamship</i>
                   </strong>
                   ") provides a platform for ecommerce merchants ("
                   <strong>
@@ -41,9 +41,9 @@ const Terms = () => {
                     <i>Ad Platforms</i>
                   </strong>
                   "), supply chain networks and advertisement campaign data and
-                  related insights. The Avaprint Site and any other features,
+                  related insights. The Dreamship Site and any other features,
                   tools, materials, or other services offered from time to time
-                  by Avaprint are referred to as the "
+                  by Dreamship are referred to as the "
                   <strong>
                     <i>Services</i>
                   </strong>
@@ -51,23 +51,23 @@ const Terms = () => {
                 </p>
                 <p className="mb-6">
                   THESE TERMS SET FORTH A LEGALLY BINDING AGREEMENT BETWEEN YOU
-                  AND Avaprint THAT GOVERNS YOUR USE OF THE SERVICES. BY
+                  AND DREAMSHIP THAT GOVERNS YOUR USE OF THE SERVICES. BY
                   ACCESSING OR OTHERWISE USING THE SERVICES, YOU ACCEPT THESE
                   TERMS (INDIVIDUALLY OR ON BEHALF OF THE ENTITY THAT YOU
                   REPRESENT), OUR PRIVACY POLICY (FOUND HERE), AND ANY
                   ADDITIONAL TERMS, RULES, OR CONDITIONS OF USE ISSUED BY
-                  Avaprint FROM TIME TO TIME, AND YOU REPRESENT AND WARRANT
+                  DREAMSHIP FROM TIME TO TIME, AND YOU REPRESENT AND WARRANT
                   THAT YOU HAVE THE RIGHT, AUTHORITY, AND CAPACITY TO ENTER INTO
                   THESE TERMS (INDIVIDUALLY OR ON BEHALF OF THE ENTITY THAT YOU
                   REPRESENT), OUR PRIVACY POLICY, AND ANY SUCH ADDITIONAL TERMS.
                   IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT ACCESS THE
-                  Avaprint SITE OR USE THE SERVICES.
+                  DREAMSHIP SITE OR USE THE SERVICES.
                 </p>
                 <p className="mb-6">
                   <strong>
                     IMPORTANT: PLEASE REVIEW THE ARBITRATION AGREEMENT SET FORTH
                     IN THESE TERMS CAREFULLY, AS IT WILL REQUIRE YOU TO RESOLVE
-                    DISPUTES WITH Avaprint ON AN INDIVIDUAL BASIS (RATHER THAN
+                    DISPUTES WITH DREAMSHIP ON AN INDIVIDUAL BASIS (RATHER THAN
                     THROUGH A CLASS ACTION) THROUGH FINAL AND BINDING
                     ARBITRATION (RATHER THAN THROUGH A JURY TRIAL). BY ENTERING
                     INTO THESE TERMS, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE
@@ -78,15 +78,15 @@ const Terms = () => {
                   </strong>
                 </p>
                 <p className="mb-6">
-                  Avaprint may amend these Terms from time to time. Amendments
-                  will be effective upon Avaprint's posting of such updated
+                  Dreamship may amend these Terms from time to time. Amendments
+                  will be effective upon Dreamship's posting of such updated
                   Terms at this location or in the amended policies or
                   supplemental terms on the applicable Service(s). Your
                   continued access or use of the Services after such posting
                   confirms your consent to be bound by these Terms, as amended.
-                  Avaprint reserves the right to modify, suspend, or
+                  Dreamship reserves the right to modify, suspend, or
                   discontinue the Services, in whole or in part, at any time,
-                  with or without notice to you. You agree that Avaprint will
+                  with or without notice to you. You agree that Dreamship will
                   not be liable to you or to any third party for such
                   modification, suspension, or discontinuation.
                 </p>
@@ -105,19 +105,19 @@ const Terms = () => {
                       submit is truthful and accurate and that you will maintain
                       the accuracy of such information. You may delete your
                       Account at any time, for any reason, by following the
-                      instructions on the Services. Avaprint may suspend or
+                      instructions on the Services. Dreamship may suspend or
                       terminate your Account in its sole discretion and may
-                      suspend access to the Services if Avaprint suspects that
+                      suspend access to the Services if Dreamship suspects that
                       you have failed to comply with these Terms. You are
                       responsible for maintaining the confidentiality of your
                       Account login information and are fully responsible for
                       all activities that occur under your Account. You agree to
-                      immediately notify Avaprint of any unauthorized use, or
+                      immediately notify Dreamship of any unauthorized use, or
                       suspected unauthorized use, of your Account or any other
-                      breach of security with respect to your Account. Avaprint
+                      breach of security with respect to your Account. Dreamship
                       hereby disclaims any and all liability for any loss or
                       damage for your failure to comply with the requirements
-                      set forth in this Section 1. Avaprint may, in its sole
+                      set forth in this Section 1. Dreamship may, in its sole
                       discretion, refuse to open an Account for you or limit the
                       number of Accounts that you hold.
                     </span>
@@ -138,7 +138,7 @@ const Terms = () => {
                         Unlawful activity. Activity that would violate, or
                         assist in violation of, any law, statute, ordinance, or
                         regulation, sanctions programs administered in the
-                        countries where Avaprint conducts business, including,
+                        countries where Dreamship conducts business, including,
                         without limitation, the U.S. Department of Treasury's
                         Office of Foreign Assets Control, or which would involve
                         proceeds of any unlawful activity; publish, distribute
@@ -163,7 +163,7 @@ const Terms = () => {
                         Account and information; or transferring your account
                         access or rights to your account to a third party,
                         unless by operation of law or with the express
-                        permission of Avaprint.
+                        permission of Dreamship.
                       </span>
                     </li>
                     <li className="mb-2">
@@ -184,9 +184,9 @@ const Terms = () => {
                     <li className="mb-2">
                       <span>
                         Fraudulent or misleading content. Activity that operates
-                        to defraud Avaprint, Avaprint users, or any other
+                        to defraud Dreamship, Dreamship users, or any other
                         person; provide any false, inaccurate, or misleading
-                        information to Avaprint or third parties, including,
+                        information to Dreamship or third parties, including,
                         without limitation, false, inaccurate, or misleading
                         information about any products included in the Services.
                       </span>
@@ -206,12 +206,12 @@ const Terms = () => {
                         without limitation, sales, distribution, or access to
                         counterfeit music, movies, software, or other licensed
                         materials without the appropriate authorization from the
-                        rights holder; use of Avaprint intellectual property,
-                        name, or logo, including use of Avaprint trade or
-                        service marks, without express consent from Avaprint or
-                        in a manner that otherwise harms Avaprint or the
-                        Avaprint brand; any action that implies an untrue
-                        endorsement by or affiliation with Avaprint. If you are
+                        rights holder; use of Dreamship intellectual property,
+                        name, or logo, including use of Dreamship trade or
+                        service marks, without express consent from Dreamship or
+                        in a manner that otherwise harms Dreamship or the
+                        Dreamship brand; any action that implies an untrue
+                        endorsement by or affiliation with Dreamship. If you are
                         an intellectual property owner who believes a user of
                         our services is infringing your intellectual property
                         rights, please see Section 6.
@@ -223,7 +223,7 @@ const Terms = () => {
                       <i>Application to Ad Platform Accounts.</i> You
                       acknowledge and agree that the restrictions in this
                       Section 1, in addition to applying to Accounts, apply to
-                      accounts created by Avaprint on your behalf on an Ad
+                      accounts created by Dreamship on your behalf on an Ad
                       Platform (such accounts, "Ad Platform Accounts") as set
                       forth in Section 4.
                     </span>
@@ -237,51 +237,51 @@ const Terms = () => {
                       nontransferable, nonsublicensable license, subject to the
                       terms of this Agreement, to access and use the Services
                       and related content, materials and information provided by
-                      Avaprint (collectively, the "
+                      Dreamship (collectively, the "
                       <strong>
-                        <i>Avaprint Content</i>
+                        <i>Dreamship Content</i>
                       </strong>
-                      ") solely for approved purposes as permitted by Avaprint
+                      ") solely for approved purposes as permitted by Dreamship
                       from time to time. Any other use of the Services or the
-                      Avaprint Content is expressly prohibited. You agree you
+                      Dreamship Content is expressly prohibited. You agree you
                       will not copy, transmit, distribute, sell, license,
                       reverse engineer, modify, publish, or participate in the
                       transfer or sale of, create derivative works from, or in
-                      any other way exploit any of the Avaprint Content, in
+                      any other way exploit any of the Dreamship Content, in
                       whole or in part. All intellectual property rights,
                       including copyrights, patents, trademarks and trade
                       secrets, in the Services, including, without limitation,
-                      "Avaprint.com" and all logos related to the Services or
-                      displayed on the Avaprint Site, are owned by Avaprint or
+                      "dreamship.com" and all logos related to the Services or
+                      displayed on the Dreamship Site, are owned by Dreamship or
                       its licensors. Neither these Terms (nor your access to the
                       Services) transfers to you or any third party any rights,
                       title or interest in or to such intellectual property
                       rights, except for the limited access rights expressly set
-                      forth in this Section 2(a). Avaprint and its licensors
+                      forth in this Section 2(a). Dreamship and its licensors
                       expressly reserve all rights not granted in these Terms.
                       There are no implied licenses granted under these Terms.{" "}
                     </span>
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Disclaimers.</i> Although Avaprint intends to provide
+                      <i>Disclaimers.</i> Although Dreamship intends to provide
                       accurate and timely information on the Services, the
-                      Services (including, without limitation, the Avaprint
+                      Services (including, without limitation, the Dreamship
                       Content) may not always be entirely accurate, complete or
                       current and may also include technical inaccuracies or
                       typographical errors. THE SERVICES ARE PROVIDED ON AN
-                      "AS-IS" AND "AS AVAILABLE" BASIS, AND Avaprint EXPRESSLY
+                      "AS-IS" AND "AS AVAILABLE" BASIS, AND DREAMSHIP EXPRESSLY
                       DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF ANY
                       KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING
                       ALL WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS
                       FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT,
-                      ACCURACY, OR NON-INFRINGEMENT. Avaprint MAKES NO WARRANTY
-                      THAT THE Avaprint SITE WILL MEET YOUR REQUIREMENTS, WILL
+                      ACCURACY, OR NON-INFRINGEMENT. DREAMSHIP MAKES NO WARRANTY
+                      THAT THE DREAMSHIP SITE WILL MEET YOUR REQUIREMENTS, WILL
                       BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR
                       ERROR-FREE BASIS, OR WILL BE ACCURATE, RELIABLE, FREE OF
                       VIRUSES OR OTHER HARMFUL CODE, COMPLETE, LEGAL, OR SAFE.
                       IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO
-                      THE Avaprint SITE, ALL SUCH WARRANTIES ARE LIMITED IN
+                      THE DREAMSHIP SITE, ALL SUCH WARRANTIES ARE LIMITED IN
                       DURATION TO NINETY (90) DAYS FROM THE DATE OF FIRST USE.
                     </span>
                   </li>
@@ -293,9 +293,9 @@ const Terms = () => {
                       <strong>
                         <i>Third-Party Materials</i>
                       </strong>
-                      "). Such Third-Party Materials are not under Avaprint's
-                      control, and Avaprint is not responsible for any
-                      Third-Party Materials. Avaprint provides access to this
+                      "). Such Third-Party Materials are not under Dreamship's
+                      control, and Dreamship is not responsible for any
+                      Third-Party Materials. Dreamship provides access to this
                       Third-Party Materials only as a convenience to you, and
                       does not review, approve, monitor, endorse, warrant, or
                       make any representations with respect to Third-Party
@@ -339,7 +339,7 @@ const Terms = () => {
                     To the extent the Services or any features or
                     functionalities thereof is made available to you for a fee,
                     you are required as a condition of your use of the Services
-                    to pay to Avaprint fees applicable to the features and
+                    to pay to Dreamship fees applicable to the features and
                     functionalities you use as part of the Services (“Service
                     Fees”), as well as any other applicable fees including but
                     not limited to those fees charged by Supplier or other third
@@ -356,26 +356,26 @@ const Terms = () => {
                     such as PayPal, credit card, or other payment method
                     indicated at the time you create your Account (“Payment
                     Method”) and keep the Payment Method valid at all times. You
-                    acknowledge and agree that Avaprint may charge the Fees to
+                    acknowledge and agree that Dreamship may charge the Fees to
                     the Payment Method you provide immediately upon your request
                     or receipt of the applicable Services and continue charging
                     applicable Fees on a rolling basis until the Services are
                     terminated and any outstanding Fees you owe are paid in
-                    full. Avaprint reserves the right to withhold the provision
+                    full. Dreamship reserves the right to withhold the provision
                     of Services to you until your payment of the Fees is fully
-                    settled in Avaprint’s accounts. You acknowledge that you
+                    settled in Dreamship’s accounts. You acknowledge that you
                     may be responsible for additional fees beyond the Service
                     Fees and Additional Fees, such as processing fees charged to
                     you by payments providers you use outside of our Services
                     (such as PayPal, Shopify, Facebook, or other service
                     providers), as well as all taxes associated with your use of
                     the Services other than U.S.-based taxes assessed directly
-                    to Avaprint independent of any transaction with you.
+                    to Dreamship independent of any transaction with you.
                   </span>
                 </p>
                 <p className="mb-4">
                   <span>
-                    Avaprint reserves the right to pause or cancel payments at
+                    Dreamship reserves the right to pause or cancel payments at
                     any time.
                   </span>
                 </p>
@@ -384,49 +384,49 @@ const Terms = () => {
                     <span>
                       <i>Pricing. </i>All Fees are as posted at the time you
                       request the applicable Services unless otherwise indicated
-                      on the Avaprint Site or otherwise indicated by Avaprint
+                      on the Dreamship Site or otherwise indicated by Dreamship
                       to you in writing.
                     </span>
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Refunds</i>. Avaprint does not provide refunds for
+                      <i>Refunds</i>. Dreamship does not provide refunds for
                       Fees paid.{" "}
                     </span>
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Prepayment</i>. Avaprint offers the option for you pay
+                      <i>Prepayment</i>. Dreamship offers the option for you pay
                       in advance (“Pre-Payment”) in exchange for certain
                       benefits to your account, such as discounts, Credits
-                      (defined below), or similar benefits. Avaprint may accept
+                      (defined below), or similar benefits. Dreamship may accept
                       or reject Pre-Payment at its sole discretion, and may
                       condition acceptance of Pre-Payment upon your acceptance
                       of additional terms and conditions which may be modified
-                      by Avaprint at any time upon written notice to you. If
-                      Avaprint reasonably believes that you are violating these
+                      by Dreamship at any time upon written notice to you. If
+                      Dreamship reasonably believes that you are violating these
                       Terms or the intellectual property rights or other rights
-                      of Avaprint, Suppliers, or third-parties, Avaprint
+                      of Dreamship, Suppliers, or third-parties, Dreamship
                       reserves the right to charge your Payment Method or use
                       Pre-Payment amounts in order to cover any fees, charges,
                       or other losses incurred by, or that could potentially be
-                      incurred by, Avaprint as a result of your actions or
+                      incurred by, Dreamship as a result of your actions or
                       omissions.
                     </span>
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Credits</i>. Avaprint may grant your Account credit
+                      <i>Credits</i>. Dreamship may grant your Account credit
                       that can be used solely to pay Fees (“Credits”) in
                       accordance with these Terms. You acknowledge and agree
-                      that Credit is granted by Avaprint’s sole discretion,
+                      that Credit is granted by Dreamship’s sole discretion,
                       does not reflect actual amounts paid (either to satisfy
                       Fees owed or as Pre-Payment), and the terms and conditions
                       governing the redemption of Credit can be modified at any
-                      time and for any reason. Avaprint reserves the right to
+                      time and for any reason. Dreamship reserves the right to
                       reduce Credit in an amount equal to any outstanding
                       balances associated with your Account in order to satisfy
-                      amounts you owe to Avaprint.
+                      amounts you owe to Dreamship.
                     </span>
                   </li>
                 </ol>
@@ -435,7 +435,7 @@ const Terms = () => {
                 </h2>
                 <p className="mb-4">
                   <span>
-                    As part of the Services, Avaprint may provide you access to
+                    As part of the Services, Dreamship may provide you access to
                     an Ad Platform, including, without limitation, by way of
                     creating an Ad Platform Account or multiple Ad Platform
                     Accounts (the "
@@ -451,39 +451,39 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>
-                        Payment to Avaprint: Advances and Monthly Payments.
+                        Payment to Dreamship: Advances and Monthly Payments.
                       </i>
-                      You understand that you are required to pay Avaprint in
+                      You understand that you are required to pay Dreamship in
                       exchange for your use of the Ad Platform Services (any
                       such payment, a "
                       <strong>
                         <i>Payment</i>
                       </strong>
                       "). Payments are made as follows: (i) when you sign up for
-                      the Ad Platform Services, Avaprint collects an up-front
+                      the Ad Platform Services, Dreamship collects an up-front
                       advance payment (the "
                       <strong>
                         <i>Advance</i>
                       </strong>
-                      ") and (ii) at the beginning of each month, Avaprint
+                      ") and (ii) at the beginning of each month, Dreamship
                       draws and retains from your Advance an amount equal to a
                       percentage of the amount of money you plan to spend
                       advertising your products and/or services on the
                       applicable Ad Platform in the applicable month, which will
                       be communicated to you and may be modified from time to
-                      time in Avaprint's sole discretion (the "
+                      time in Dreamship's sole discretion (the "
                       <strong>
                         <i>Monthly Payment</i>
                       </strong>
-                      "). Avaprint will deduct the Monthly Payment from your
+                      "). Dreamship will deduct the Monthly Payment from your
                       Advance until your Advance would be insufficient to cover
                       the next upcoming Monthly Payment, at which point
-                      Avaprint reserves the right to request and collect
+                      Dreamship reserves the right to request and collect
                       another Payment from you (and treat it as a second
                       Advance) and reserves the right to suspend or terminate
                       your access to the Ad Platform Services during the time
                       such requested Payment remains unpaid. All payments must
-                      be made in U.S. dollars or any other currency as Avaprint
+                      be made in U.S. dollars or any other currency as Dreamship
                       and you may agree. Except as set forth in Section 4(b)
                       below, all Advances and Monthly Payments are
                       non-refundable.{" "}
@@ -491,22 +491,22 @@ const Terms = () => {
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Payment to Avaprint: Deposits.</i> In addition to
-                      Advances and Monthly Payments, Avaprint may collect a
+                      <i>Payment to Dreamship: Deposits.</i> In addition to
+                      Advances and Monthly Payments, Dreamship may collect a
                       one-time, up-front deposit in the amount of $10,000 (a "
                       <strong>
                         <i>Deposit</i>
                       </strong>
-                      "), which Avaprint will hold for the duration of your use
-                      of the Ad Platform Services. IN THE EVENT THAT Avaprint
+                      "), which Dreamship will hold for the duration of your use
+                      of the Ad Platform Services. IN THE EVENT THAT DREAMSHIP
                       TERMINATES YOUR ACCESS TO THE AD PLATFORM SERVICES BECAUSE
                       YOUR CONTENT (AS DEFINED BELOW) OR AD PLATFORM ACCOUNT IS
                       FLAGGED BY, OR REMOVED FROM, AN AD PLATFORM, OR IF
-                      Avaprint OTHERWISE INCURS ANY LIABILITY TO AN AD PLATFORM
+                      DREAMSHIP OTHERWISE INCURS ANY LIABILITY TO AN AD PLATFORM
                       BECAUSE OF YOUR CONTENT OR YOUR AD PLATFORM ACCOUNT,
-                      Avaprint MAY RETAIN SOME OR ALL OF YOUR DEPOSIT AS
+                      DREAMSHIP MAY RETAIN SOME OR ALL OF YOUR DEPOSIT AS
                       LIQUIDATED DAMAGES. Please read Section 4(g) carefully, as
-                      it contains the terms for Avaprint's retention of your
+                      it contains the terms for Dreamship's retention of your
                       Deposit as liquidated damages.{" "}
                     </span>
                   </li>
@@ -523,14 +523,14 @@ const Terms = () => {
                       <span>
                         If you cease using the Ad Platform Services (whether at
                         your election, an Ad Platform removes you from the Ad
-                        Platform and Avaprint then terminates your use of the
-                        Ad Platform Services, or Avaprint terminates your use
+                        Platform and Dreamship then terminates your use of the
+                        Ad Platform Services, or Dreamship terminates your use
                         of the Ad Platform Services for any other reason in its
                         sole discretion, including, without limitation, for your
-                        violation of these Terms), then Avaprint will credit
+                        violation of these Terms), then Dreamship will credit
                         back to you any remaining amounts left in your Advance
                         as of the date your access to the Ad Platform Services
-                        is terminated; provided, that Avaprint may retain your
+                        is terminated; provided, that Dreamship may retain your
                         Deposit as liquidated damages in accordance with Section
                         4(g) below
                       </span>
@@ -539,10 +539,10 @@ const Terms = () => {
                       <span>
                         If you achieve certain volume thresholds with respect to
                         use of the Ad Platform Services (such thresholds to be
-                        communicated to you by Avaprint), Avaprint may issue
+                        communicated to you by Dreamship), Dreamship may issue
                         you a credit for use of the Ad Platform Services in an
                         amount communicated to you that may be modified from
-                        time to time in Avaprint's sole discretion. For
+                        time to time in Dreamship's sole discretion. For
                         clarity, this credit will have no cash value, and will
                         be redeemable for future use of the Ad Platform Services
                         only.
@@ -552,13 +552,13 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Collecting your Payment.</i> All Monthly Payments will
-                      be enabled by Avaprint using the preferred payment method
+                      be enabled by Dreamship using the preferred payment method
                       designated in your Account. You are solely responsible for
                       maintaining and/or updating the payment information on
-                      your Account and if Avaprint is unable to withdraw a
+                      your Account and if Dreamship is unable to withdraw a
                       Payment from you for any reason, it will suspend your
                       access to the Ad Platform Services until such Payment can
-                      be withdrawn. Any failure by you to provide Avaprint with
+                      be withdrawn. Any failure by you to provide Dreamship with
                       accurate payment information, or to update any changes to
                       your payment information, may result in suspension or
                       termination of your access to the Ad Platform Services.
@@ -572,25 +572,25 @@ const Terms = () => {
                   <ol type="i">
                     <li className="mb-2">
                       <span>
-                        You grant to Avaprint a nonexclusive, royalty-free
+                        You grant to Dreamship a nonexclusive, royalty-free
                         license to access, use, copy, modify, create derivative
                         works of, distribute, publicly display, publicly perform
                         and otherwise exploit in any manner any content,
-                        materials and information provided by you to Avaprint
+                        materials and information provided by you to Dreamship
                         in connection with your use of the Services (including,
                         without limitation, the Ad Platform Services)
                         (collectively, "
                         <strong>
                           <i>Your Content</i>
                         </strong>
-                        ") solely for purposes of Avaprint's facilitation of
+                        ") solely for purposes of Dreamship's facilitation of
                         the Ad Platform Services. You represent and warrant
                         that: (i) you either are the sole and exclusive owner of
                         Your Content or you have all rights, licenses, consents
-                        and releases necessary to grant Avaprint the license to
+                        and releases necessary to grant Dreamship the license to
                         Your Content as set forth herein; (ii) neither Your
                         Content, nor your submission, uploading, publishing, or
-                        otherwise making available Your Content, nor Avaprint's
+                        otherwise making available Your Content, nor Dreamship's
                         use of Your Content as permitted herein will infringe,
                         misappropriate, or otherwise violate a third party's
                         intellectual property or proprietary rights, or rights
@@ -599,17 +599,17 @@ const Terms = () => {
                         Content will not be false, misleading, inaccurate,
                         libelous, hateful, violent, obscene, pornographic,
                         unlawful, or otherwise offensive or inappropriate as
-                        determined in Avaprint's sole discretion.
+                        determined in Dreamship's sole discretion.
                       </span>
                     </li>
                     <li className="mb-2">
                       <span>
-                        Avaprint uses data generated from your use of the Ad
+                        Dreamship uses data generated from your use of the Ad
                         Platform Services, including, without limitation, any
                         data generated from use of Your Content, to improve the
                         Ad Platform Services. Any such data and information
-                        constitutes "Avaprint Content" as defined in Section
-                        2(a) and therefore Avaprint owns all right, title and
+                        constitutes "Dreamship Content" as defined in Section
+                        2(a) and therefore Dreamship owns all right, title and
                         interest in and to such data and information, and such
                         data and information is governed in all respects by
                         these Terms.
@@ -618,8 +618,8 @@ const Terms = () => {
                   </ol>
                   <li className="mb-2">
                     <span>
-                      <i>Review of, and Flagging, Your Content.</i> Avaprint
-                      reserves the right to review and, in Avaprint's sole
+                      <i>Review of, and Flagging, Your Content.</i> Dreamship
+                      reserves the right to review and, in Dreamship's sole
                       discretion, approve or reject Your Content before
                       submitting it to an Ad Platform. Notwithstanding the
                       foregoing, you acknowledge and agree that Your Content is
@@ -630,31 +630,31 @@ const Terms = () => {
                       gathering practices. You further acknowledge and agree
                       that Your Content or any Ad Platform Accounts may be
                       flagged by an Ad Platform and removed from such Ad
-                      Platform. Avaprint may, without any liability to you,
+                      Platform. Dreamship may, without any liability to you,
                       suspend or terminate its delivery of the Ad Platform
                       Services to you for any reason in its sole discretion,
                       including, without limitation, in response to Your Content
                       or any such Ad Platform Accounts being flagged by an Ad
                       Platform in any manner. You are fully responsible for Your
-                      Content and any Ad Platform Accounts and Avaprint will
+                      Content and any Ad Platform Accounts and Dreamship will
                       incur no liability to you for the foregoing.
                     </span>
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Termination; Liquidated Damages.</i>IF Avaprint
+                      <i>Termination; Liquidated Damages.</i>IF DREAMSHIP
                       TERMINATES YOUR ACCESS TO THE AD PLATFORM SERVICES DUE TO
                       YOUR CONTENT OR YOUR AD PLATFORM ACCOUNT BEING FLAGGED BY,
-                      OR REMOVED FROM, AN AD PLATFORM, OR IF Avaprint OTHERWISE
+                      OR REMOVED FROM, AN AD PLATFORM, OR IF DREAMSHIP OTHERWISE
                       INCURS ANY LIABILITY TO AN AD PLATFORM AS A RESULT OF YOUR
-                      CONTENT OR YOUR AD PLATFORM ACCOUNT, THEN Avaprint
+                      CONTENT OR YOUR AD PLATFORM ACCOUNT, THEN DREAMSHIP
                       RESERVES THE RIGHT TO RETAIN AS LIQUIDATED DAMAGES SOME OR
                       ALL OF YOUR DEPOSIT. THE PARTIES AGREE THAT THE LIQUIDATED
                       DAMAGES CLAUSE HEREIN IS INTENDED TO COVER REPUTATIONAL
-                      AND OTHER LOSSES INCURRED BY Avaprint DUE TO YOUR ACTIONS
+                      AND OTHER LOSSES INCURRED BY DREAMSHIP DUE TO YOUR ACTIONS
                       AND THAT QUANTIFYING LOSSES FROM YOUR ACTIONS IS
                       INHERENTLY DIFFICULT INSOFAR AS YOUR ACTIONS MAY IMPACT
-                      Avaprint'S REPUTATION. THE PARTIES FURTHER STIPULATE THAT
+                      DREAMSHIP'S REPUTATION. THE PARTIES FURTHER STIPULATE THAT
                       THE AGREED SUM IS NOT A PENALTY, BUT RATHER A REASONABLE
                       MEASURE OF DAMAGES, BASED UPON THE PARTIES' EXPERIENCE IN
                       THE INDUSTRY AND GIVEN THE NATURE OF THE LOSSES THAT MAY
@@ -668,7 +668,7 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Facebook Ads.</i> As part of the Ad Platform Services,
-                      Avaprint may create an Ad Platform Account on Facebook ("
+                      Dreamship may create an Ad Platform Account on Facebook ("
                       <strong>
                         <i>Facebook Ad Platform Account</i>
                       </strong>
@@ -690,17 +690,17 @@ const Terms = () => {
                         <a href="https://www.facebook.com/policies/ads/">
                           <span>https://www.facebook.com/policies/ads/</span>
                         </a>
-                        ). Although Avaprint will use commercially reasonable
+                        ). Although Dreamship will use commercially reasonable
                         efforts to create your Facebook Ad Platform Account, it
                         is your responsibility to, and you will be solely and
                         entirely liable for the failure to, maintain your
                         Facebook Ad Platform Account in good standing with
-                        Facebook. Avaprint WILL BE UNDER NO OBLIGATION TO
-                        MAINTAIN YOUR FACEBOOK AD PLATFORM ACCOUNT AND Avaprint
+                        Facebook. DREAMSHIP WILL BE UNDER NO OBLIGATION TO
+                        MAINTAIN YOUR FACEBOOK AD PLATFORM ACCOUNT AND DREAMSHIP
                         EXPRESSLY WAIVES ANY AND ALL LIABILITY WITH RESPECT TO
                         YOUR FACEBOOK AD PLATFORM ACCOUNT. THIS MEANS THAT
-                        Avaprint WILL HAVE NO LIABILITY TO YOU FOR THE
-                        FOLLOWING: (I) Avaprint'S FAILURE TO MAINTAIN AN
+                        DREAMSHIP WILL HAVE NO LIABILITY TO YOU FOR THE
+                        FOLLOWING: (I) DREAMSHIP'S FAILURE TO MAINTAIN AN
                         ACCOUNT WITH, OR OTHERWISE REMAIN IN GOOD STANDING WITH,
                         FACEBOOK; (II) ANY OF YOUR CONTENT DISPLAYED ON
                         FACEBOOK; (III) FACEBOOK REMOVING YOU FROM ITS PLATFORM;
@@ -713,7 +713,7 @@ const Terms = () => {
                       <i>No Third-Party Beneficiaries.</i> The Ad Platform
                       Services are not intended to create any third-party
                       beneficiary rights for your or any other third party's
-                      benefit. To the extent that Avaprint is required to enter
+                      benefit. To the extent that Dreamship is required to enter
                       into a contract, agreement, or other understanding with an
                       Ad Platform in order to provide the Ad Platform Services
                       to you, you expressly waive any rights you may have as a
@@ -731,7 +731,7 @@ const Terms = () => {
                 </h2>
                 <p className="mb-4">
                   <span>
-                    As part of the Services, Avaprint may provide you access to
+                    As part of the Services, Dreamship may provide you access to
                     certain product fulfillment services through which you can
                     place orders for products supplied by third parties (such
                     third parties, "
@@ -742,12 +742,12 @@ const Terms = () => {
                     <strong>
                       <i>Third-Party Products</i>
                     </strong>
-                    ") and Avaprint will provide fulfillment services with
+                    ") and Dreamship will provide fulfillment services with
                     respect to such Third-Party Products (collectively, the "
                     <strong>
                       <i>Fulfillment Services</i>
                     </strong>
-                    ") as set forth on the Avaprint Site. Your use of the
+                    ") as set forth on the Dreamship Site. Your use of the
                     Fulfillment Services is governed in all aspects by these
                     Terms, including, without limitation, this Section 5.{" "}
                   </span>
@@ -762,16 +762,16 @@ const Terms = () => {
                       <strong>
                         <i>Product Payments</i>
                       </strong>
-                      "). All Product Payments will be enabled by Avaprint
+                      "). All Product Payments will be enabled by Dreamship
                       using the preferred payment method designated in your
                       Account. You are solely responsible for maintaining and/or
                       updating the payment information on your Account and if
-                      Avaprint or the applicable Supplier is unable to withdraw
+                      Dreamship or the applicable Supplier is unable to withdraw
                       a Product Payment from you for any reason, then the
                       Third-Party Product will not be fulfilled (nor will you be
                       able to otherwise use the Fulfillment Services) until such
                       payment information is updated, accurate and complete. Any
-                      failure by you to provide Avaprint with accurate payment
+                      failure by you to provide Dreamship with accurate payment
                       information, or to update any changes to your payment
                       information, may result in suspension or termination of
                       your access to the Fulfillment Services.{" "}
@@ -785,7 +785,7 @@ const Terms = () => {
                       to work with you for any reason or may be otherwise
                       unavailable. When such a situation occurs, you will be
                       informed that the applicable Supplier is unavailable.
-                      Avaprint will incur no liability to you for any Supplier
+                      Dreamship will incur no liability to you for any Supplier
                       actions or inactions, including, without limitation, a
                       Supplier's decision not to work with you or a Supplier's
                       unavailability for any reason.
@@ -797,13 +797,13 @@ const Terms = () => {
                       subject to the applicable Supplier's inventory and
                       availability. A Supplier's processing, shipping and
                       delivery timeframes will be communicated to you, either on
-                      the Avaprint Site or through another method. If a
-                      Third-Party Product is unavailable, then Avaprint will
+                      the Dreamship Site or through another method. If a
+                      Third-Party Product is unavailable, then Dreamship will
                       use commercially reasonable efforts to remove it (or cause
                       it to be removed) from the Fulfillment Services; however,
-                      Avaprint will have no liability to you if any Third-Party
+                      Dreamship will have no liability to you if any Third-Party
                       Product is unavailable for any reason whatsoever,
-                      including, without limitation, due to Avaprint's failure
+                      including, without limitation, due to Dreamship's failure
                       to remove it from the Fulfillment Services or any other
                       failure to communicate its status to you.
                     </span>
@@ -815,7 +815,7 @@ const Terms = () => {
                       are subject to the applicable Supplier's return and refund
                       policy. Please review the applicable Supplier's return and
                       refund policy for more information. Because such terms and
-                      the Supplier's terms, and not Avaprint's terms, Avaprint
+                      the Supplier's terms, and not Dreamship's terms, Dreamship
                       will incur no liability to you for any such terms,
                       including, without limitation, a Supplier's failure to
                       honor their terms.
@@ -827,7 +827,7 @@ const Terms = () => {
                 </h2>
                 <p className="mb-4">
                   <span>
-                    Avaprint respects the intellectual property rights of
+                    Dreamship respects the intellectual property rights of
                     artists, inventors, and creators. These Terms impose
                     important requirements on users to protect intellectual
                     property rights, and we take violations of intellectual
@@ -838,20 +838,20 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Intellectual Property Policy. </i>Certain services
-                      provided by Avaprint allow you, Suppliers, and other
+                      provided by Dreamship allow you, Suppliers, and other
                       users to upload images or similar content (“Third-Party
                       Content”), connect with Suppliers who may promote or
                       supply Third-Party Products containing Third-Party
                       Content, and otherwise enable users to engage in
                       commercial activity involving Third-Party Content. You,
                       Suppliers and other users of the Services are not
-                      employees, agents, or representatives of Avaprint and are
+                      employees, agents, or representatives of Dreamship and are
                       not acting under the direction or instruction of
-                      Avaprint. Avaprint is not responsible for ensuring that
+                      Dreamship. Dreamship is not responsible for ensuring that
                       users of the Services have all necessary rights to
                       Third-Party Content that they use in connection with the
                       Services and that they are not using the Services in a way
-                      that violates any third party’s rights. Avaprint reserves
+                      that violates any third party’s rights. Dreamship reserves
                       the right to remove any Third-Party Content, delist or
                       remove any Third-Party Products, remove Your Content,
                       terminate your Account or your access to the Services, and
@@ -862,21 +862,21 @@ const Terms = () => {
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>IP Checker. </i>Avaprint may provide access to certain
+                      <i>IP Checker. </i>Dreamship may provide access to certain
                       software that analyzes Third-Party Content against a
                       database of images, marks, materials, and other content
                       for purposes of providing analytics and other information
-                      (“IP Checker”). Avaprint does not and cannot offer or
+                      (“IP Checker”). Dreamship does not and cannot offer or
                       provide legal advice or make legal determinations with
                       respect to Third-Party Content, including without
                       limitation advice or determinations as to whether
                       Third-Party Content analyzed with IP Checker infringes the
-                      intellectual property rights of a third party. Avaprint
+                      intellectual property rights of a third party. Dreamship
                       disclaims all liability with respect to the accuracy of
                       the analytics or other information provided through IP
-                      Checker, and Avaprint is not liable for any action or
+                      Checker, and Dreamship is not liable for any action or
                       inaction taken by you, Suppliers or any third-party
-                      (including without limitation Avaprint’s service
+                      (including without limitation Dreamship’s service
                       providers or affiliated platforms) as a result of or in
                       reliance on analytics or other information provided
                       through IP Checker.
@@ -887,23 +887,23 @@ const Terms = () => {
                       <i>
                         DMCA and Notices of Intellectual Property Infringement
                       </i>
-                      . When Avaprint receives proper notice of intellectual
-                      property infringement, Avaprint will endeavor to respond
+                      . When Dreamship receives proper notice of intellectual
+                      property infringement, Dreamship will endeavor to respond
                       promptly and, if required to protect intellectual property
                       rights or otherwise by law, remove or disable access to
-                      the allegedly infringing material. Avaprint will make a
+                      the allegedly infringing material. Dreamship will make a
                       reasonable attempt to contact the user who uploaded or
                       provided the allegedly infringing material, provide
                       information about the notice and removal (including the
                       name and email address of the reporting party(, and
                       provide information about how to submit a counter notice
                       (if applicable in the case of alleged copyright
-                      infringement). Avaprint may request additional
+                      infringement). Dreamship may request additional
                       information before processing a notice, such as identity
                       verification of the reporting party and documentation
                       confirming that the reporting party has the claimed legal
                       rights with respect to the applicable intellectual
-                      property. Avaprint reserves all rights under applicable
+                      property. Dreamship reserves all rights under applicable
                       law to reject notices or counter notices that contain
                       information that we reasonably believe to be false,
                       fraudulent, incomplete, inaccurate, or otherwise submitted
@@ -914,12 +914,12 @@ const Terms = () => {
                     <p className="mb-4">
                       <span>
                         <i>Submitting a Take-Down Notice or Counter Notice</i>.
-                        Avaprint will process and investigate all valid and
+                        Dreamship will process and investigate all valid and
                         properly submitted notices of intellectual property
                         infringement as required by applicable law, including
                         without limitation the Digital Millenium Copyright Act
                         (DMCA). Upon receipt of a valid and properly submitted
-                        notice under this Section 5(d), Avaprint will take
+                        notice under this Section 5(d), Dreamship will take
                         appropriate actions as required by the DMCA or
                         applicable law, including as necessary the expeditious
                         removal of any material claimed to be infringing or
@@ -936,12 +936,12 @@ const Terms = () => {
                       property owner and you have a good faith belief that any
                       Third-Party Content or other materials infringe your
                       rights, you may submit a notification by emailing{" "}
-                      <a href="mailto:ip@Avaprint.com">
-                        <span className="s5">ip@Avaprint.com</span>
+                      <a href="mailto:ip@dreamship.com">
+                        <span className="s5">ip@dreamship.com</span>
                       </a>{" "}
                       and providing (i) identification of the material claimed
                       to have been infringed, (ii) information reasonably
-                      sufficient to permit Avaprint to locate the material,
+                      sufficient to permit Dreamship to locate the material,
                       (iii) your contact information, (iv) a statement that you
                       have a good faith belief that use of the material that is
                       claimed to be infringing violates your intellectual
@@ -953,9 +953,9 @@ const Terms = () => {
                       accurate and that you are the intellectual property owner
                       or authorized to act on behalf of the intellectual
                       property owner for purposes of submitting notice to
-                      Avaprint. You acknowledge that failure to follow the
+                      Dreamship. You acknowledge that failure to follow the
                       process described in this Section 5(d) may result in
-                      Avaprint deeming your notice not valid.
+                      Dreamship deeming your notice not valid.
                     </span>
                   </p>
                   <p className="mb-4">
@@ -965,12 +965,12 @@ const Terms = () => {
                       belief that you received that copyright infringement
                       notice in error, you may submit a counter notice by
                       emailing{" "}
-                      <a href="mailto:ip@Avaprint.com">
-                        <span className="s5">ip@Avaprint.com</span>
+                      <a href="mailto:ip@dreamship.com">
+                        <span className="s5">ip@dreamship.com</span>
                       </a>{" "}
                       and providing (i) identification of the material that has
                       been removed, (ii) information reasonably sufficient to
-                      permit Avaprint to locate where the material was located
+                      permit Dreamship to locate where the material was located
                       as part of the Services, (iii) your contact information,
                       (iv) a statement made under penalty of perjury that you
                       have a good faith belief that the material was removed as
@@ -985,7 +985,7 @@ const Terms = () => {
                       action in a court of competent jurisdiction alleging
                       infringement of intellectual property rights, the material
                       described in the counter notice may be restored by
-                      Avaprint or uploaded again by you. If you have any
+                      Dreamship or uploaded again by you. If you have any
                       questions about the above described procedures, please
                       consult an attorney.
                     </span>
@@ -998,7 +998,7 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Indemnity.</i> You agree to indemnify and hold
-                      Avaprint, its affiliates, and each of its and their
+                      Dreamship, its affiliates, and each of its and their
                       respective officers, directors, agents, joint venturers,
                       employees and representatives, harmless from any claim or
                       demand (including attorneys' fees and any fines, fees or
@@ -1011,7 +1011,7 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Limitation of Liability.</i> TO THE MAXIMUM EXTENT
-                      PERMITTED BY LAW, IN NO EVENT WILL Avaprint BE LIABLE TO
+                      PERMITTED BY LAW, IN NO EVENT WILL DREAMSHIP BE LIABLE TO
                       YOU OR ANY THIRD PARTY FOR ANY LOST PROFITS, INTERRUPTION,
                       DELAY OR INABILITY TO USE THE SERVICES, LOSS OF SERVICE,
                       LOSS RESULTING FROM SYSTEM OR SYSTEM SERVICE FAILURE,
@@ -1024,13 +1024,13 @@ const Terms = () => {
                       INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR
                       PUNITIVE DAMAGES ARISING FROM OR RELATING TO THESE TERMS
                       OR YOUR USE OF, OR INABILITY TO USE, THE SERVICES, EVEN IF
-                      Avaprint HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+                      DREAMSHIP HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
                       DAMAGES. ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR
                       OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY
                       RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER
                       SYSTEM, OR LOSS OF DATA RESULTING THEREFROM. TO THE
                       MAXIMUM EXTENT PERMITTED BY LAW, NOTWITHSTANDING ANYTHING
-                      TO THE CONTRARY CONTAINED HEREIN, Avaprint'S LIABILITY TO
+                      TO THE CONTRARY CONTAINED HEREIN, DREAMSHIP'S LIABILITY TO
                       YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS
                       AGREEMENT (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE
                       FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO A
@@ -1051,25 +1051,25 @@ const Terms = () => {
                       <br /> <br /> THE SERVICES (INCLUDING WITHOUT LIMITATION
                       THE AD PLATFORM AND AD PLATFORM SERVICES, FULFILLMENT
                       SERVICES, AND IP CHECKER) ARE PROVIDED ON AN "AS-IS" AND
-                      "AS AVAILABLE" BASIS, AND Avaprint EXPRESSLY DISCLAIMS
+                      "AS AVAILABLE" BASIS, AND DREAMSHIP EXPRESSLY DISCLAIMS
                       ANY AND ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER
                       EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ALL WARRANTIES
                       OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
                       PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR
-                      NON-INFRINGEMENT. Avaprint MAKES NO WARRANTY THAT THE
+                      NON-INFRINGEMENT. DREAMSHIP MAKES NO WARRANTY THAT THE
                       SERVICES WILL MEET YOUR REQUIREMENTS, WILL BE AVAILABLE ON
                       AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS, OR
                       WILL BE ACCURATE, RELIABLE, FREE OF VIRUSES OR OTHER
                       HARMFUL CODE, COMPLETE, LEGAL, OR SAFE. IF APPLICABLE LAW
-                      REQUIRES ANY WARRANTIES WITH RESPECT TO THE Avaprint
+                      REQUIRES ANY WARRANTIES WITH RESPECT TO THE DREAMSHIP
                       SITE, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO
-                      NINETY (90) DAYS FROM THE DATE OF FIRST USE. Avaprint
+                      NINETY (90) DAYS FROM THE DATE OF FIRST USE. DREAMSHIP
                       EXPRESSLY DISCLAIMS ANY AND ALL LIABILITY FOR YOUR USE OF
                       THE FULFILLMENT SERVICES OR THE UP CHECKER, INCLUDING,
                       WITHOUT LIMITATION, YOUR PURCHASE AND USE OF THE
                       THIRD-PARTY PRODUCTS, INCLUDING, WITHOUT LIMITATION, THAT
                       THE THIRD-PARTY PRODUCTS WILL MEET THEIR DESCRIPTION OR
-                      IMAGERY ON THE Avaprint SITE, THAT SUCH THIRD-PARTY
+                      IMAGERY ON THE DREAMSHIP SITE, THAT SUCH THIRD-PARTY
                       PRODUCTS WILL BE SAFE OR EFFECTIVE, THAT SUCH THIRD-PARTY
                       PRODUCTS WILL CONFORM TO ANY VERBAL OR WRITTEN WARRANTIES
                       OR GUARANTEES PROVIDED BY THE SUPPLIER (WHETHER THOSE
@@ -1077,12 +1077,12 @@ const Terms = () => {
                       FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE), OR THAY
                       SUCH THIRD-PARTY PRODUCTS DO OR DO NOT INFRINGE THE
                       INTELLECTUAL PROPERTY RIGHTS OF A THIRD-PARTY. WITHOUT
-                      LIMITING THE FOREGOING, Avaprint EXPRESSLY DISCLAIMS ANY
+                      LIMITING THE FOREGOING, DREAMSHIP EXPRESSLY DISCLAIMS ANY
                       AND ALL LIABILITY TO YOU BASED ON A THIRD-PARTY PRODUCT'S
                       DEFECTS, INCLUDING, WITHOUT LIMITATION, THAT SUCH THIRD
                       PARTY PRODUCTS CAUSED BODILY INJURY OR ANY PRODUCTS
                       LIABILITY. IN ADDITION, AND WITHOUT LIMITING THE
-                      FOREGOING, Avaprint MAKES NO REPRESENTATIONS OR
+                      FOREGOING, DREAMSHIP MAKES NO REPRESENTATIONS OR
                       WARRANTIES WITH RESPECT TO, AND EXPLICITLY DISCLAIMS THE
                       ACCURACY, ADEQUACY, OR COMPLETENESS OF THE AD PLATFORM
                       SERVICES AND ANY DATA AND/OR INFORMATION INCLUDED ON ANY
@@ -1092,13 +1092,13 @@ const Terms = () => {
                       ANY AD PLATFORM OR AD PLATFORM SERVICES AND ANY SUCH DATA
                       AND/OR INFORMATION INCLUDED THEREIN OR FOR ANY DAMAGES
                       RELATED TO YOUR USE OF ANY AD PLATFORM OR AD PLATFORM
-                      SERVICES, AND Avaprint WILL NOT BE LIABLE TO YOU OR ANY
+                      SERVICES, AND DREAMSHIP WILL NOT BE LIABLE TO YOU OR ANY
                       THIRD PARTY FOR ANY AD PLATFORM SERVICES, YOUR CONTENT, OR
-                      ANY AD PLATFORM ACCOUNTS. FURTHER, Avaprint EXPRESSLY
-                      DISCLAIMS ANY AND ALL LIABILITY TO YOU FOR Avaprint'S
+                      ANY AD PLATFORM ACCOUNTS. FURTHER, DREAMSHIP EXPRESSLY
+                      DISCLAIMS ANY AND ALL LIABILITY TO YOU FOR DREAMSHIP'S
                       FAILURE TO CREATE OR MAINTAIN AN AD PLATFORM ACCOUNT FOR
                       ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, FOR
-                      Avaprint'S FAILURE TO MAINTAIN AN ACCOUNT WITH, OR
+                      DREAMSHIP'S FAILURE TO MAINTAIN AN ACCOUNT WITH, OR
                       OTHERWISE REMAIN IN GOOD STANDING WITH, AN AD ACCOUNT
                       PLATFORM).
                     </span>
@@ -1110,16 +1110,16 @@ const Terms = () => {
                 <ol type="a" className="mb-4">
                   <li className="mb-2">
                     <span>
-                      <i>Agreement to Arbitrate.</i> You and Avaprint agree
+                      <i>Agreement to Arbitrate.</i> You and Dreamship agree
                       that any dispute, claim, or controversy between you and
-                      Avaprint arising in connection with or relating in any
-                      way to these Terms or to your relationship with Avaprint
+                      Dreamship arising in connection with or relating in any
+                      way to these Terms or to your relationship with Dreamship
                       as a user of the Service (whether based in contract, tort,
                       statute, fraud, misrepresentation, or any other legal
                       theory, and whether the claims arise during or after the
                       termination of the Agreements) will be determined by
                       mandatory binding individual (not class) arbitration. You
-                      and Avaprint further agree that the arbitrator will have
+                      and Dreamship further agree that the arbitrator will have
                       the exclusive power to rule on any disputes relating to
                       the interpretation, applicability, enforceability,
                       existence, scope or validity of this agreement to
@@ -1145,11 +1145,11 @@ const Terms = () => {
                   </li>
                   <li className="mb-2">
                     <span>
-                      <i>Class Action Waiver.</i> YOU AND Avaprint AGREE THAT
+                      <i>Class Action Waiver.</i> YOU AND DREAMSHIP AGREE THAT
                       EACH PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR
                       OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR A
                       CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE
-                      ACTION. Unless both you and Avaprint otherwise agree in
+                      ACTION. Unless both you and Dreamship otherwise agree in
                       writing, any arbitration will be conducted only on an
                       individual basis and not in a class, collective,
                       consolidated, or representative proceeding.{" "}
@@ -1158,11 +1158,11 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Waiver of Jury Trial; Certain Exceptions.</i> You
-                      acknowledge and agree that you and Avaprint are each
+                      acknowledge and agree that you and Dreamship are each
                       waiving the right to a trial by jury the right to
                       participate as a plaintiff or class member in any
                       purported class action or representative proceeding.
-                      Notwithstanding the foregoing, you and Avaprint each
+                      Notwithstanding the foregoing, you and Dreamship each
                       agree that nothing in this Arbitration Agreement will be
                       deemed to waive, preclude, or otherwise limit either of
                       their rights to (1) bring an individual action in a U.S.
@@ -1191,7 +1191,7 @@ const Terms = () => {
                       </strong>
                       ") then in effect, except as modified by this Arbitration
                       Agreement. The AAA Rules are available at{" "}
-                      <a href="https://Avaprint.com/terms/www.adr.org/arb_med">
+                      <a href="https://dreamship.com/terms/www.adr.org/arb_med">
                         <span>www.adr.org/arb_med</span>
                       </a>{" "}
                       or by calling the AAA at 1-800-778-7879. The arbitration
@@ -1247,11 +1247,11 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Entire Agreement.</i> These Terms, along with
-                      Avaprint's Privacy Policy (LINK)—which is incorporated by
+                      Dreamship's Privacy Policy (LINK)—which is incorporated by
                       reference herein—constitute the entire terms and
-                      conditions between you and Avaprint and supersede any
+                      conditions between you and Dreamship and supersede any
                       prior or contemporaneous agreement or understanding
-                      between you and Avaprint, whether written or oral.{" "}
+                      between you and Dreamship, whether written or oral.{" "}
                     </span>
                   </li>
                   <li className="mb-2">
@@ -1263,9 +1263,9 @@ const Terms = () => {
                       manner affect or render invalid or unenforceable the
                       remaining provisions of these Terms, and the application
                       of that provision will be enforced to the extent permitted
-                      by law. Any failure by Avaprint or any third-party
+                      by law. Any failure by Dreamship or any third-party
                       beneficiary to enforce the Agreements or any provision
-                      thereof will not waive Avaprint's or the applicable
+                      thereof will not waive Dreamship's or the applicable
                       third-party beneficiary's right to do so.{" "}
                     </span>
                   </li>
@@ -1274,7 +1274,7 @@ const Terms = () => {
                       <i>Choice of Law.</i> These Terms are governed by the
                       internal laws of the State of California, United States,
                       without regard to its choice or conflicts of laws
-                      principles. You and Avaprint agree to the exclusive
+                      principles. You and Dreamship agree to the exclusive
                       jurisdiction of the state and federal courts located in
                       San Francisco, California to resolve any dispute, claim,
                       or controversy that relates to or arises in connection
@@ -1285,11 +1285,11 @@ const Terms = () => {
                   <li className="mb-2">
                     <span>
                       <i>Assignment.</i> You may not assign these Terms without
-                      Avaprint's prior written consent. Avaprint may assign
+                      Dreamship's prior written consent. Dreamship may assign
                       these Terms without your consent to (1) a subsidiary or
-                      affiliate of Avaprint, (2) an acquirer of Avaprint's
+                      affiliate of Dreamship, (2) an acquirer of Dreamship's
                       equity, business, or assets, or (3) a successor of
-                      Avaprint by merger or operation of law. Any purported
+                      Dreamship by merger or operation of law. Any purported
                       assignment in violation of this Section 9(d) will be void.{" "}
                     </span>
                   </li>
