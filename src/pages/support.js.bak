@@ -5,7 +5,7 @@ import PageHeader from '../components/PageHeader';
 const Support = () => {
     return (
         <Layout>
-            <PageHeader title="Support" heading="Need help?" description="Need help using Avaprint?" />
+            <PageHeader title="Support" heading="Need help?" description="Need help using Dreamship?" />
 
             <section>
         <div className="mt-6 container-lg">
@@ -14,7 +14,7 @@ const Support = () => {
               <div className="position-sticky mb-8" style={{ top: "2rem" }}>
                 <h1 className="mb-4">Decoration methods</h1>
                 <p className="mb-0">
-                  Learn about the decoration types available at Avaprint{" "}
+                  Learn about the decoration types available at Dreamship{" "}
                 </p>
               </div>
             </div>
@@ -29,7 +29,7 @@ const Support = () => {
                       Available Decoration Methods
                     </p>
                     <p className="font-size-md text-gray-500">
-                      Details on available decoration methods at Avaprint
+                      Details on available decoration methods at Dreamship
                     </p>
                   </a>
                 </div>
@@ -54,7 +54,7 @@ const Support = () => {
               <div className="position-sticky mb-8" style={{ top: "2rem" }}>
                 <h1 className="mb-4">Product Publishing</h1>
                 <p className="mb-0">
-                  Guideline to create and publish products on Avaprint{" "}
+                  Guideline to create and publish products on Dreamship{" "}
                 </p>
               </div>
             </div>
@@ -149,13 +149,13 @@ const Support = () => {
                 <div className="list-group-item">
                   <a
                     className="text-decoration-none text-reset"
-                    href="/support/create-products-on-Avaprint/"
+                    href="/support/create-products-on-dreamship/"
                   >
                     <p className="SupportHeader font-size-lg font-weight-bold mb-1 text-lin">
-                      Create products on Avaprint{" "}
+                      Create products on Dreamship{" "}
                     </p>
                     <p className="font-size-md text-gray-500">
-                      The first step to use Avaprint{" "}
+                      The first step to use Dreamship{" "}
                     </p>
                   </a>
                 </div>
@@ -195,7 +195,7 @@ const Support = () => {
                       International Shipping Information
                     </p>
                     <p className="font-size-md text-gray-500">
-                      FAQ &amp; information on Avaprint's International
+                      FAQ &amp; information on Dreamship's International
                       Shipping Policy
                     </p>
                   </a>
@@ -235,17 +235,17 @@ const Support = () => {
                       Payment Methods
                     </p>
                     <p className="font-size-md text-gray-500">
-                      How to pay your orders on Avaprint app
+                      How to pay your orders on Dreamship app
                     </p>
                   </a>
                 </div>
                 <div className="list-group-item">
                   <a
                     className="text-decoration-none text-reset"
-                    href="/support/instructions-for-creating-ticket-on-Avaprint/"
+                    href="/support/instructions-for-creating-ticket-on-dreamship/"
                   >
                     <p className="SupportHeader font-size-lg font-weight-bold mb-1 text-lin">
-                      Instructions for creating a ticket on Avaprint
+                      Instructions for creating a ticket on Dreamship
                     </p>
                     <p className="font-size-md text-gray-500">
                       You have an order issue? Create a ticket then we will take
@@ -256,13 +256,13 @@ const Support = () => {
                 <div className="list-group-item">
                   <a
                     className="text-decoration-none text-reset"
-                    href="/support/official-support-channels-of-Avaprint/"
+                    href="/support/official-support-channels-of-dreamship/"
                   >
                     <p className="SupportHeader font-size-lg font-weight-bold mb-1 text-lin">
-                      Official support channels of Avaprint{" "}
+                      Official support channels of Dreamship{" "}
                     </p>
                     <p className="font-size-md text-gray-500">
-                      Official contact and support channels of Avaprint{" "}
+                      Official contact and support channels of Dreamship{" "}
                     </p>
                   </a>
                 </div>
@@ -283,13 +283,13 @@ const Support = () => {
                 <div className="list-group-item">
                   <a
                     className="text-decoration-none text-reset"
-                    href="/support/how-to-fulfill-orders-with-Avaprint/"
+                    href="/support/how-to-fulfill-orders-with-dreamship/"
                   >
                     <p className="SupportHeader font-size-lg font-weight-bold mb-1 text-lin">
-                      How to fulfill orders with Avaprint{" "}
+                      How to fulfill orders with Dreamship{" "}
                     </p>
                     <p className="font-size-md text-gray-500">
-                      Different ways to fulfill your orders with Avaprint{" "}
+                      Different ways to fulfill your orders with Dreamship{" "}
                     </p>
                   </a>
                 </div>
@@ -302,7 +302,7 @@ const Support = () => {
                       How to fulfill order CSV
                     </p>
                     <p className="font-size-md text-gray-500">
-                      Fulfill order CSV Avaprint
+                      Fulfill order CSV Dreamship
                     </p>
                   </a>
                 </div>
@@ -335,13 +335,13 @@ const Support = () => {
                 <div className="list-group-item">
                   <a
                     className="text-decoration-none text-reset"
-                    href="/support/manage-your-orders-on-Avaprint-app/"
+                    href="/support/manage-your-orders-on-dreamship-app/"
                   >
                     <p className="SupportHeader font-size-lg font-weight-bold mb-1 text-lin">
-                      Manage your orders on Avaprint app{" "}
+                      Manage your orders on Dreamship app{" "}
                     </p>
                     <p className="font-size-md text-gray-500">
-                      How to use Avaprint order dashboard to manage your
+                      How to use Dreamship order dashboard to manage your
                       orders.
                     </p>
                   </a>
@@ -349,13 +349,13 @@ const Support = () => {
                 <div className="list-group-item">
                   <a
                     className="text-decoration-none text-reset"
-                    href="/support/new-feature-app-order-create-orders-on-Avaprint-app/"
+                    href="/support/new-feature-app-order-create-orders-on-dreamship-app/"
                   >
                     <p className="SupportHeader font-size-lg font-weight-bold mb-1 text-lin">
-                      [New feature] App Order - Create orders on Avaprint app{" "}
+                      [New feature] App Order - Create orders on Dreamship app{" "}
                     </p>
                     <p className="font-size-md text-gray-500">
-                      Create orders directly on Avaprint app.{" "}
+                      Create orders directly on Dreamship app.{" "}
                     </p>
                   </a>
                 </div>
@@ -394,7 +394,7 @@ const Support = () => {
                       Detailed order billing feature
                     </p>
                     <p className="font-size-md text-gray-500">
-                      How to view order billing on Avaprint app
+                      How to view order billing on Dreamship app
                     </p>
                   </a>
                 </div>
@@ -449,7 +449,7 @@ const Support = () => {
                     </p>
                     <p className="font-size-md text-gray-500">
                       The following best practices are particularly relevant to
-                      our channel partners utilizing Avaprint to sell branded
+                      our channel partners utilizing Dreamship to sell branded
                       products.
                     </p>
                   </a>
@@ -489,7 +489,7 @@ const Support = () => {
                       File Transformations
                     </p>
                     <p className="font-size-md text-gray-500">
-                      Avaprint allows users to send over file information in
+                      Dreamship allows users to send over file information in
                       multiple ways. Learn what the different fields mean.
                     </p>
                   </a>
