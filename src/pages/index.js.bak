@@ -213,7 +213,7 @@ const IndexPage = () => {
                       <div className="w-100" aria-hidden="true">
                         <img
                           className="img-fluid pos-relative aos-init aos-animate"
-                          src="/hero-1.jpg"
+                          src="/hero-1.png"
                           alt="Quality products, fast"
                           data-aos="wipe-left"
                           data-aos-delay={200}
@@ -222,14 +222,14 @@ const IndexPage = () => {
                       <div className="w-100" aria-hidden="true">
                         <img
                           className="img-fluid"
-                          src="/hero-2.jpg"
+                          src="/hero-2.png"
                           alt="We grow with you"
                         />
                       </div>
                       <div className="w-100 is-selected">
                         <img
                           className="img-fluid"
-                          src="/hero-3.jpg"
+                          src="/hero-3.png"
                           alt="Tech that just works"
                         />
                       </div>
