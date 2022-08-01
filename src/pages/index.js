@@ -692,7 +692,7 @@ const IndexPage = () => {
                 </p>
                 <a
                   className="btn btn-primary lift"
-                  href="/"
+                  href="https://app.avaprint.com/login"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

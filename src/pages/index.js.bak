@@ -535,8 +535,8 @@ const IndexPage = () => {
                   Xem catalogue sản phẩm
                 </a>
 				<a
-                  className="btn btn-success lift products-button"
-                  href="/catalog"
+                  className="btn btn-success lift products-button" target="_blank"
+                  href="https://www.facebook.com/avaprint.net"
                 >
                   {/* View product catalog */}
                   Yêu cầu sản phẩm riêng của bạn
