@@ -278,10 +278,7 @@ const IndexPage = () => {
                               flawless prints, impeccable service, and
                               industry-leading tech to ensure your customers get
                               the best quality products, delivered fast. */}
-                              Chúng tôi chỉ chọn các supplier có chất lượng in ấn vượt trội, 
-                              dịch vụ đáng tin cậy và có công nghệ hiện đại hàng đầu trong ngành 
-                              để bảo đảm khách hàng của bạn luôn nhận được những sản phẩm chất 
-                              lượng tốt nhất, giao hàng nhanh.
+                              Với hệ thống máy móc hiện đại và đội ngũ nhân sự dồi dào, chúng tôi luôn đảm bảo chất lượng sản phẩm tốt nhất và giao hàng cực nhanh.
                             </p>
                           </div>
                         </div>
@@ -302,10 +299,7 @@ const IndexPage = () => {
                               expansive network of vetted on-demand fulfillment
                               partners enables your business to grow safely and
                               globally. */}
-                              Từ đơn hàng đầu tiên đến đơn hàng thứ một triệu của bạn, 
-                              hệ thống supplier gồm các đối tác đã được kiểm chứng của chúng 
-                              tôi sẵn sàng để giúp cho việc kinh doanh của bạn tăng trưởng 
-                              an toàn trên toàn cầu.
+                             Chúng tôi luôn lắng nghe và phát triển sản phẩm phù hợp chiến lược của bạn.
                             </p>
                           </div>
                         </div>
@@ -326,9 +320,7 @@ const IndexPage = () => {
                               flawless prints, impeccable service, and
                               industry-leading tech to ensure your customers get
                               the best quality products, delivered fast. */}
-                              Avaprint được thiết kế để giảm thiểu những phiền toái không cần thiết, 
-                              sử dụng các nhà cung cấp có năng lực đã qua kiểm chứng, 
-                              và kiểm tra chất lượng kỹ càng nên bạn chỉ việc tập trung vào việc kinh doanh của mình.
+                              Với thế mạnh về công nghệ và giải pháp, Avaprint sẽ hỗ trợ tốt nhất có thể để bạn yên tâm tập trung hoàn toàn vào công việc kinh doanh của mình.
                             </p>
                           </div>
                         </div>
@@ -385,14 +377,13 @@ const IndexPage = () => {
                   <div className="ml-5">
                     <p className="font-size-lg font-weight-bold mb-1">
                       {/* Zero inventory costs */}
-                      Không có chi phí hàng tồn kho
+                    Giá tận gốc
                     </p>
                     <p className="font-size-sm mb-0 text-muted">
                       {/* Cut inventory and operations costs from your budget
                       forever. Avaprint enables you to move quickly, without
                       risk to your time and resources. */}
-                      Cắt giảm chi phí hàng tồn kho và vận hành mãi mãi. Avaprint giúp bạn có 
-                      thể phát triển nhanh chóng mà không tốn nhiều thời gian và nhân lực.
+                     Avaprint cắt giảm tối đa những chi phí không cần thiết để sản phẩm có giá thành tốt nhất mà vẫn đảm bảo chất lượng.
                     </p>
                   </div>
                 </div>
@@ -422,14 +413,13 @@ const IndexPage = () => {
                   <div className="ml-5">
                     <p className="font-size-lg font-weight-bold mb-1">
                       {/* Fast, quality fulfillment */}
-                      Fulfillment nhanh và chất lượng
+                    Nhanh và chất lượng
                     </p>
                     <p className="font-size-sm mb-0 text-muted">
                       {/* We’re bringing on-demand commerce into the modern age
                       through lightning fast 3-5 day fulfillment, without
                       sacrificing quality. */}
-                      Chúng tôi mang ngành on-demand lên một chuẩn mực mới, 
-                      fulfillment nhanh 3-5 ngày mà chất lượng vẫn đảm bảo.
+                     Avaprint có hệ thống nhà xưởng 2000m2, máy móc hiện đại và nhân sự dồi dào, nhà máy chúng tôi luôn hoạt động 24/7 để đảm bảo đơn hàng của bạn hoàn thành trong 1 - 2 ngày.
                     </p>
                   </div>
                 </div>
@@ -459,13 +449,12 @@ const IndexPage = () => {
                   <div className="ml-5">
                     <p className="font-size-lg font-weight-bold mb-1">
                       {/* Zero minimum requirements */}
-                      Không có yêu cầu tối thiểu
+                     Miễn phí sản phẩm mẫu
                     </p>
                     <p className="font-size-sm mb-0 text-muted">
                       {/* We print and ship your customers’ orders as they come in,
                       whether that’s one item or one thousand. */}
-                      Cho dù bạn có một đơn hàng hay hàng ngàn đơn hàng mỗi ngày, 
-                      chúng tôi vẫn in đẹp và ship nhanh cho khách hàng của bạn.
+						Với thời đại phát triển của Video commerce, Chúng tôi biết bạn đang rất cần sản phẩm mẫu của riêng bạn để quay dựng, Avaprint luôn sẵn sàng đồng hành cùng bạn để có những campaign triệu view
                     </p>
                   </div>
                 </div>
@@ -500,13 +489,12 @@ const IndexPage = () => {
                   <div className="ml-5">
                     <p className="font-size-lg font-weight-bold mb-1">
                       {/* Unlimited product possibilities */}
-                      Lượng sản phẩm không giới hạn
+                   Có hình ảnh hoàn thiện sản phẩm
                     </p>
                     <p className="font-size-sm mb-0 text-muted">
                       {/* Stock your digital shelves with hundreds of product
                       variations available in our expansive catalog. */}
-                      Hãy trưng bày thêm hàng lên store của bạn với hàng 
-                      trăm danh mục hàng mới trong catalogue của chúng tôi.
+                      Để đảm bảo cho bạn và khách hàng yên tâm về đơn hàng của mình, mỗi sản phẩm hoàn thiện chúng tôi sẽ đưa lên hệ thống ảnh hoàn thiện của đơn hàng đó.
                     </p>
                   </div>
                 </div>
@@ -531,15 +519,13 @@ const IndexPage = () => {
               <div className="col-lg-6 col-md-8">
                 <h2 className="display-4 mb-4">
                   {/* Premium products without the price tag. */}
-                  Sản phẩm cao cấp giá tốt
+                Hỗ Trợ tối đa FBA - Sản phẩm chất lượng và giá tại xưởng
                 </h2>
                 <p className="font-size-md text-muted">
                   {/* Our fulfillment network includes only thoroughly vetted
                   suppliers who make speed and product quality a priority. Need
                   help sourcing a new product? We can help with that too. */}
-                  Hệ thống fulfillment của chúng tôi chỉ sử dụng những nhà suppliers 
-                  quan tâm đến chất lượng và sản xuất nhanh. Bạn có cần giúp đỡ để có 
-                  thêm sản phẩm mới? Chúng tôi có thể giúp bạn đấy.
+					Chúng tôi luôn lắng nghe và sẵn sàng trao đổi để cùng bạn đưa ra những sản phẩm của riêng bạn và mức giá tối ưu nhất để bạn phát triển công việc kinh doanh của bạn.
                 </p>
                 <a
                   className="btn btn-warning lift products-button"
@@ -547,6 +533,13 @@ const IndexPage = () => {
                 >
                   {/* View product catalog */}
                   Xem catalogue sản phẩm
+                </a>
+				<a
+                  className="btn btn-success lift products-button" target="_blank"
+                  href="https://www.facebook.com/avaprint.net"
+                >
+                  {/* View product catalog */}
+                  Yêu cầu sản phẩm riêng của bạn
                 </a>
               </div>
             </div>
