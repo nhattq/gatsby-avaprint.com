@@ -549,7 +549,7 @@ const IndexPage = () => {
                   <div className="img-grid-item">
                     <img
                       className="img-fluid border border-4 border-md-7 border-white shadow"
-                      src="/catalog-2.jpg"
+                      src="/catalog-2.png"
                       alt="..."
                     />
                   </div>

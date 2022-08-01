@@ -454,7 +454,7 @@ const IndexPage = () => {
                     <p className="font-size-sm mb-0 text-muted">
                       {/* We print and ship your customers’ orders as they come in,
                       whether that’s one item or one thousand. */}
-						Với thời đại phát triển của Video commerce, Chúng tôi biết bạn đang rất cần sản phẩm mẫu của riêng bạn để quay dựng, Avaprint luôn sẵn sàng đồng hành cùng bạn để có những campaign triệu view
+						Với thời đại phát triển của Video commerce, Chúng tôi biết bạn đang rất cần sản phẩm mẫu của riêng bạn để quay dựng, Avaprint luôn sẵn sàng đồng hành cùng bạn để có những campaign triệu view.
                     </p>
                   </div>
                 </div>
