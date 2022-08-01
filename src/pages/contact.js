@@ -101,7 +101,7 @@ const Contact = () => {
                 </div>
                 <div className="row">
                   <div className="col-md-12">
-                    <div>
+                    /*<div>
                       <HubspotForm
                         portalId="22299379"
                         formId="2487cbeb-2b19-488f-80ee-f32457047fce"
@@ -109,7 +109,7 @@ const Contact = () => {
                         onReady={(form) => console.log("Form ready!")}
                         loading={<div></div>}
                       />
-                    </div>
+                    </div>*/
                   </div>
                 </div>
               </div>
