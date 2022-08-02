@@ -8153,7 +8153,7 @@ button.close {
   color: #6c8aec !important;
 }
 .text-primary-light {
-  color: #8559ff !important;
+  color: #4468b1 !important;
 }
 .text-primary-dark {
   color: #5c17b8!important;

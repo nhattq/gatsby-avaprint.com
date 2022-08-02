@@ -354,8 +354,7 @@ const IndexPage = () => {
 						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 							 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 						<style type="text/css">
-							.st0{fill:#BECDE8;}
-							.st1{fill:#4468B2;}
+							
 						</style>
 						<path class="st0" d="M61.3,38.79c-1.47-1.85-4.16-2.18-6.02-0.72l-12.14,9.51c-0.6,0.47-1.35,0.73-2.11,0.73l-8.7,0.01
 							c-1.18,0-2.14-0.96-2.15-2.14c0-1.18,0.96-2.14,2.14-2.15l7.29-0.01c2.37,0,4.28-1.92,4.28-4.29c0-2.37-1.92-4.29-4.29-4.28
@@ -397,8 +396,7 @@ const IndexPage = () => {
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 					<style type="text/css">
-						.st0{fill:#BFCDE8;}
-						.st1{fill:#4669B2;}
+						
 					</style>
 					<path class="st0" d="M50.87,29.54h-2.46c-1.36,0-2.46,1.1-2.46,2.46c0,1.36,1.1,2.46,2.46,2.46h2.46c1.36,0,2.46-1.1,2.46-2.46
 						C53.33,30.64,52.23,29.54,50.87,29.54z M32,45.95c-1.36,0-2.46,1.1-2.46,2.46v2.46c0,1.36,1.1,2.46,2.46,2.46
@@ -439,8 +437,7 @@ const IndexPage = () => {
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 					<style type="text/css">
-						.st0{fill:#BFCDE8;}
-						.st1{fill:#4669B2;}
+						
 					</style>
 					<path class="st0" d="M29.68,16.8h12.04c0.21,0,0.42-0.08,0.57-0.23l8.91-8.91c0.5-0.5,0.15-1.37-0.57-1.37H38.6
 						c-0.21,0-0.42,0.08-0.57,0.23l-8.91,8.91C28.61,15.94,28.97,16.8,29.68,16.8z"/>
@@ -479,8 +476,7 @@ const IndexPage = () => {
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 					<style type="text/css">
-						.st0{fill:#BFCDE8;}
-						.st1{fill:#4669B2;}
+						
 					</style>
 					<rect x="14.02" y="24" class="st0" width="35.95" height="34.24"/>
 					<path class="st1" d="M25.81,38.37c1.5,0,2.72-1.22,2.72-2.72s-1.22-2.72-2.72-2.72s-2.72,1.22-2.72,2.72S24.31,38.37,25.81,38.37z"
