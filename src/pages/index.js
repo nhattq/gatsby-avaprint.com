@@ -352,10 +352,7 @@ const IndexPage = () => {
                 <div className="d-flex mt-8 mt-md-9">
                   <div className="icon text-primary-light">
 						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-							 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-						<style type="text/css">
-							
-						</style>
+							 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">						
 						<path class="st0" d="M61.3,38.79c-1.47-1.85-4.16-2.18-6.02-0.72l-12.14,9.51c-0.6,0.47-1.35,0.73-2.11,0.73l-8.7,0.01
 							c-1.18,0-2.14-0.96-2.15-2.14c0-1.18,0.96-2.14,2.14-2.15l7.29-0.01c2.37,0,4.28-1.92,4.28-4.29c0-2.37-1.92-4.29-4.29-4.28
 							l-8.07,0.01l-5.51,0.01l-3.1,0l-1.13,0c-2.3,0-4.54,0.78-6.35,2.2L9.5,42.34c-0.37,0.29-0.44,0.83-0.14,1.21l11.57,14.63
@@ -394,10 +391,7 @@ const IndexPage = () => {
                 <div className="d-flex mt-8 mt-md-9">
                   <div className="icon text-primary-light">
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-					<style type="text/css">
-						
-					</style>
+						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">				
 					<path class="st0" d="M50.87,29.54h-2.46c-1.36,0-2.46,1.1-2.46,2.46c0,1.36,1.1,2.46,2.46,2.46h2.46c1.36,0,2.46-1.1,2.46-2.46
 						C53.33,30.64,52.23,29.54,50.87,29.54z M32,45.95c-1.36,0-2.46,1.1-2.46,2.46v2.46c0,1.36,1.1,2.46,2.46,2.46
 						c1.36,0,2.46-1.1,2.46-2.46v-2.46C34.46,47.05,33.36,45.95,32,45.95z M15.59,29.54h-2.46c-1.36,0-2.46,1.1-2.46,2.46
@@ -435,10 +429,7 @@ const IndexPage = () => {
                 <div className="d-flex mt-9">
                   <div className="icon text-primary-light">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-					<style type="text/css">
-						
-					</style>
+						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">					
 					<path class="st0" d="M29.68,16.8h12.04c0.21,0,0.42-0.08,0.57-0.23l8.91-8.91c0.5-0.5,0.15-1.37-0.57-1.37H38.6
 						c-0.21,0-0.42,0.08-0.57,0.23l-8.91,8.91C28.61,15.94,28.97,16.8,29.68,16.8z"/>
 					<path class="st1" d="M63.2,20.8H0.8c-0.44,0-0.8,0.36-0.8,0.8v32.91c0,1.77,1.43,3.2,3.2,3.2h57.6c1.77,0,3.2-1.43,3.2-3.2V21.6
@@ -474,10 +465,7 @@ const IndexPage = () => {
                 <div className="d-flex mt-8 mt-md-9">
                   <div className="icon text-primary-light">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-					<style type="text/css">
-						
-					</style>
+						 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">					
 					<rect x="14.02" y="24" class="st0" width="35.95" height="34.24"/>
 					<path class="st1" d="M25.81,38.37c1.5,0,2.72-1.22,2.72-2.72s-1.22-2.72-2.72-2.72s-2.72,1.22-2.72,2.72S24.31,38.37,25.81,38.37z"
 						/>
