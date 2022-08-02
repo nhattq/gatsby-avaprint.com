@@ -352,7 +352,6 @@ const IndexPage = () => {
                 <div className="d-flex mt-8 mt-md-9">
                   <div className="icon text-primary-light">
                    <img width="80px"
-                          className="img-fluid"
                           src="/gia goc.svg"
                           alt="We grow with you"
                         />
@@ -379,7 +378,6 @@ const IndexPage = () => {
                 <div className="d-flex mt-8 mt-md-9">
                   <div className="icon text-primary-light">
                        <img width="80px"
-                          className="img-fluid"
                           src="/nhanh.svg"
                           alt="We grow with you"
                         />
@@ -406,7 +404,6 @@ const IndexPage = () => {
                 <div className="d-flex mt-9">
                   <div className="icon text-primary-light">
                         <img width="80px"
-                          className="img-fluid"
                           src="/Mienphi sp mau.svg"
                           alt="We grow with you"
                         />
@@ -431,7 +428,7 @@ const IndexPage = () => {
               >
                 <div className="d-flex mt-8 mt-md-9">
                   <div className="icon text-primary-light">
-                       <img width="80px" className="img-fluid"
+                       <img width="80px"
                           src="/anh sp.svg"
                           alt="We grow with you"
                         />

@@ -20157,3 +20157,5 @@ a.card:hover {
   max-width: 100%;
   height: auto;
 }
+.st0{fill:#BECDE8;}
+.st1{fill:#4468B2;}
