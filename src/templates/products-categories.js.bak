@@ -91,7 +91,7 @@ const Catalog = ({ pageContext: { data } }) => {
                                                         className="font-size-sm"
                                                         target="_blank"
                                                         rel="noopener noreferrer"
-                                                        href="https://app.avaprint.com/signup/"
+                                                        href="https://app.dreamship.com/signup/"
                                                     >
                                                         Sign up today!
                                                     </a>
