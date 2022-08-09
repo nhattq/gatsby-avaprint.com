@@ -48,7 +48,7 @@ const Catalog = () => {
                     <h5 className="mb-4 pt-4">
                       <a
                         className="text-decoration-none text-reset"
-                        href="/catalog/"
+                        href="/en/catalog/"
                       >
                         <span className="text-primary">All Products</span>
                       </a>
