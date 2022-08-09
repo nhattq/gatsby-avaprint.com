@@ -105,7 +105,7 @@ const Contact = () => {
 				  <p>CN1 Tu Liem Industrial Zone</p>
 				  <p>Nam Tu Liem, 100000 – Ha Noi</p>
 				  <p>support@avaprint.net</p>
-				  <p>1900 96 69 24</p>
+				  <p>(+84) 0923 365 789</p>
 				  {/*<div>
                       <HubspotForm
                         portalId="22299379"

@@ -101,6 +101,11 @@ const Contact = () => {
                 </div>
                 <div className="row">
                   <div className="col-md-12">
+				  <p>Contact Info</p>
+				  <p>CN1 Tu Liem Industrial Zone</p>
+				  <p>Nam Tu Liem, 100000 – Ha Noi</p>
+				  <p>support@avaprint.net</p>
+				  <p>1900 96 69 24</p>
 				  {/*<div>
                       <HubspotForm
                         portalId="22299379"
