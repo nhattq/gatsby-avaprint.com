@@ -34,9 +34,14 @@ const SEO = () => {
       <meta name="twitter:image" content={`${siteUrl}${image}`} /> */}
       {/* <title>Dreamship Clone</title> */}
       {/* <script data-ad-client="ca-pub-2747200200619029" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> */}
+		
+		<meta itemprop="name" content="AvaPrint - Giá Tận Gốc">
+		<meta itemprop="description" content="AvaPrint - Giá Tận Gốc">
+		<meta itemprop="image" content="/hero-3.png">
 		<meta property="og:url" content="https://avaprint.com"/>
 		<meta property="og:type" content="article"/>
 		<meta property="og:title" content="AvaPrint - Giá Tận Gốc"/>
+		<meta property="og:image" content="/hero-3.png"/>
 		<meta property="og:description" content="AvaPrint - Giá Tận Gốc"/>
     </Helmet>
   )
