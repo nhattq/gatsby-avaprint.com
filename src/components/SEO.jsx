@@ -37,11 +37,11 @@ const SEO = () => {
 		
 		<meta itemprop="name" content="AvaPrint - Giá Tận Gốc">
 		<meta itemprop="description" content="AvaPrint - Giá Tận Gốc">
-		<meta itemprop="image" content="/hero-3.png">
+		<meta itemprop="image" content="hero-3.png">
 		<meta property="og:url" content="https://avaprint.com"/>
 		<meta property="og:type" content="article"/>
 		<meta property="og:title" content="AvaPrint - Giá Tận Gốc"/>
-		<meta property="og:image" content="/hero-3.png"/>
+		<meta property="og:image" content="hero-3.png"/>
 		<meta property="og:description" content="AvaPrint - Giá Tận Gốc"/>
     </Helmet>
   )
