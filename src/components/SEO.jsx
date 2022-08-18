@@ -36,8 +36,8 @@ const SEO = () => {
       {/* <script data-ad-client="ca-pub-2747200200619029" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> */}
 		<meta property="og:url" content="https://avaprint.com"/>
 		<meta property="og:type" content="article"/>
-		<meta property="og:title" content="Always The Best Price"/>
-		<meta property="og:description" content="AvaPrint - Always The Best Price"/>
+		<meta property="og:title" content="AvaPrint - Giá Tận Gốc"/>
+		<meta property="og:description" content="AvaPrint - Giá Tận Gốc"/>
     </Helmet>
   )
 }
