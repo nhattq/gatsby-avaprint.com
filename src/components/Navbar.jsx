@@ -413,8 +413,8 @@ const Navbar = () => {
                           Hỗ Trợ
                           </p>
                         <span className="text-gray-500">
-                          {/* Need help using Dreamship? */}
-                          Bạn có cần giúp đỡ để dùng Dreamship?
+                          {/* Need help using Avaprint? */}
+                          Bạn có cần giúp đỡ để dùng Avaprint?
                         </span>
                       </div>
                     </Link>
