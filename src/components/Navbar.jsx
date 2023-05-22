@@ -288,12 +288,12 @@ const Navbar = () => {
             id="navbarSupportedContent"
           >
             <div className="navbar-nav">
-              <div className="text-nowrap nav-item">
+              /* <div className="text-nowrap nav-item">
                 <Link target="_top" className="nav-link" to="/catalog">
-                  {/* Catalog */}
+                  {Catalog }
                   Catalogue
                 </Link>
-              </div>
+              </div>*/
               <div
                 className={`dropdown nav-item ${toggleLearnMenu ? "show" : ""}`}
               >

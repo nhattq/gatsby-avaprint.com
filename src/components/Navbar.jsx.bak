@@ -288,12 +288,12 @@ const Navbar = () => {
             id="navbarSupportedContent"
           >
             <div className="navbar-nav">
-              <div className="text-nowrap nav-item">
+              /* <div className="text-nowrap nav-item">
                 <Link target="_top" className="nav-link" to="/catalog">
-                  {/* Catalog */}
+                  {Catalog */}
                   Catalogue
                 </Link>
-              </div>
+              </div>*/
               <div
                 className={`dropdown nav-item ${toggleLearnMenu ? "show" : ""}`}
               >
@@ -413,7 +413,7 @@ const Navbar = () => {
                           Hỗ Trợ
                           </p>
                         <span className="text-gray-500">
-                          {/* Need help using Dreamship? */}
+                          {/* Need help using Avaprint? */}
                           Bạn có cần giúp đỡ để dùng Avaprint?
                         </span>
                       </div>
